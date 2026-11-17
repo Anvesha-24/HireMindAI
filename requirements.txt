@@ -1,2 +1,12 @@
-requests
+
+streamlit
+groq
+sentence-transformers
+numpy
+pandas
+pydantic
+python-dotenv
 PyMuPDF
+SQLAlchemy
+pytest
+requests
