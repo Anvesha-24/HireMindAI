@@ -1,0 +1,93 @@
+
+[
+  {
+    "job_id": "JOB001",
+    "title": "Python Backend Developer",
+    "company": "TechNova",
+    "location": "Bangalore",
+    "experience_required": "0-2 years",
+    "skills": ["Python", "FastAPI", "REST APIs", "SQL", "Git"],
+    "description": "Build scalable backend services using Python and FastAPI. Design REST APIs, work with relational databases, debug application issues and collaborate with frontend engineers."
+  },
+  {
+    "job_id": "JOB002",
+    "title": "Machine Learning Engineer",
+    "company": "DataSphere",
+    "location": "Remote",
+    "experience_required": "0-2 years",
+    "skills": ["Python", "Machine Learning", "Scikit-learn", "Pandas", "NumPy"],
+    "description": "Develop machine learning pipelines, clean datasets, perform feature engineering and evaluate predictive models. Work with data scientists to deploy ML solutions."
+  },
+  {
+    "job_id": "JOB003",
+    "title": "Frontend Developer",
+    "company": "PixelWorks",
+    "location": "Noida",
+    "experience_required": "0-1 years",
+    "skills": ["JavaScript", "React", "HTML", "CSS", "REST APIs"],
+    "description": "Build responsive user interfaces using React and JavaScript. Integrate backend APIs, improve frontend performance and create reusable components."
+  },
+  {
+    "job_id": "JOB004",
+    "title": "AI Application Developer",
+    "company": "NeuralBridge",
+    "location": "Remote",
+    "experience_required": "0-2 years",
+    "skills": ["Python", "LLMs", "RAG", "Embeddings", "FastAPI"],
+    "description": "Build AI-powered applications using large language models, retrieval augmented generation and vector embeddings. Develop Python APIs and integrate LLM services."
+  },
+  {
+    "job_id": "JOB005",
+    "title": "Data Analyst",
+    "company": "InsightGrid",
+    "location": "Gurgaon",
+    "experience_required": "0-2 years",
+    "skills": ["Python", "SQL", "Pandas", "NumPy", "Power BI"],
+    "description": "Analyze business datasets, write SQL queries, clean data using Pandas and prepare dashboards. Identify trends and communicate insights to stakeholders."
+  },
+  {
+    "job_id": "JOB006",
+    "title": "Full Stack Developer",
+    "company": "BuildStack",
+    "location": "Noida",
+    "experience_required": "0-2 years",
+    "skills": ["React", "Node.js", "Express", "MongoDB", "JavaScript"],
+    "description": "Develop full stack web applications using React and Node.js. Design REST APIs, integrate MongoDB, implement authentication and collaborate across the product team."
+  },
+  {
+    "job_id": "JOB007",
+    "title": "Python Automation Engineer",
+    "company": "AutomateIQ",
+    "location": "Hyderabad",
+    "experience_required": "0-2 years",
+    "skills": ["Python", "Pytest", "Automation", "REST APIs", "Git"],
+    "description": "Develop automated test frameworks using Python and Pytest. Validate APIs, investigate software defects and improve test coverage and reliability."
+  },
+  {
+    "job_id": "JOB008",
+    "title": "NLP Engineer Intern",
+    "company": "LanguageLabs",
+    "location": "Remote",
+    "experience_required": "Internship",
+    "skills": ["Python", "NLP", "Transformers", "Embeddings", "Machine Learning"],
+    "description": "Experiment with natural language processing models, text embeddings and transformer architectures. Build prototypes for semantic search and text classification."
+  },
+  {
+    "job_id": "JOB009",
+    "title": "Data Science Intern",
+    "company": "QuantLeaf",
+    "location": "Bangalore",
+    "experience_required": "Internship",
+    "skills": ["Python", "SQL", "Machine Learning", "Pandas", "Statistics"],
+    "description": "Support data science projects by analyzing datasets, building machine learning models, writing SQL queries and evaluating model performance."
+  },
+  {
+    "job_id": "JOB010",
+    "title": "Software Engineer Intern",
+    "company": "CloudForge",
+    "location": "Remote",
+    "experience_required": "Internship",
+    "skills": ["Python", "Data Structures", "Algorithms", "APIs", "Git"],
+    "description": "Implement backend features, write maintainable code, develop API integrations and solve software engineering problems while collaborating with senior developers."
+  }
+]
